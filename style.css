@@ -1,0 +1,36 @@
+body{
+    color:white;
+    background:indigo;
+
+    font-family: "New Amsterdam", sans-serif;
+      
+      
+
+
+}
+header{border-bottom:solid 5px gold;
+    padding: 20px;
+    font-size: 70px;
+    color:whitesmoke
+
+}
+section{ background:black;
+    padding-bottom: 50px;
+    padding-top:70px;
+    display:flex;
+    
+}
+
+div { margin-right: 70px ;
+    margin-left:70px;
+}
+
+h1{
+
+    font-size: 50px
+}
+
+img{height:200px
+
+    
+}
